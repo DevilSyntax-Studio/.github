@@ -17,10 +17,9 @@ We welcome contributions to improve our games, Minecraft plugins, and open-sourc
 
 ## 📦 Projects You Can Contribute To
 
-- 🎮 `Dreadvale: The Whisperplague` – horror survival game
-- 🔌 `CreateMod Plugin` – a Minecraft plugin inspired by Create mod
-- 💻 `Website Pages` – HTML/CSS projects for our site and store
-- 📄 `Forum System` – Thread-based posting using Firebase
+- 🎮 `Games` – Our Games
+- 🔌 `CreateMod Plugin` – a Minecraft plugin,All Type of plugins
+- 📄 `Apps` – Our apps
 
 ## 📃 Code Style
 
