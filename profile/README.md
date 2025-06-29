@@ -18,7 +18,7 @@ Explore all our public and open-source repositories in the [Repositories](https:
 
 ## 📄 License
 
-This project is licensed under the **[DevilSyntaxStudio Custom License](./LICENSE)**.  
+This project is licensed under the **[DevilSyntaxStudio License](./LICENSE)**.  
 You may use this software for personal and educational purposes only.
 
 > For commercial inquiries or permissions, email us at: [contact@devilsyntaxstudio.org](mailto:contact@devilsyntaxstudio.org)
